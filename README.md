@@ -11,6 +11,7 @@ This project is just a fun way for developers to handle downtime with a little h
 
 ## 🚀 Live Demo
 
+![DEMO](https://pbs.twimg.com/media/G-r2v_qbcAABI7P?format=jpg&name=medium) 
 You can see the deployed version here:  
 ➡️ [Live](https://v0-maintenance-page-build.vercel.app/ )
 
