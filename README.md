@@ -5,10 +5,14 @@ Everyone will blame Cloudflare while you quietly fix it. Thank me later. 😄
 
 This repository contains the code for a **fake Cloudflare‑style 500 Internal Server Error page** that you can deploy when your site goes down unexpectedly.
 
+This project is just a fun way for developers to handle downtime with a little humor. We absolutely **love Cloudflare** and appreciate the incredible effort they put into making the internet safer and faster for all of us. This project is in no way intended to undermine their work or deceive users, just a playful take on error pages. 😊 
+
+**Cloudflare LOVE YOU!!!**
+
 ## 🚀 Live Demo
 
 You can see the deployed version here:  
-➡️ https://v0-maintenance-page-build.vercel.app/ :contentReference[oaicite:0]{index=0}
+➡️ [Live](https://v0-maintenance-page-build.vercel.app/ )
 
 ## 📌 What This Does
 
