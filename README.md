@@ -13,7 +13,7 @@ This project is just a fun way for developers to handle downtime with a little h
 
 ![DEMO](https://pbs.twimg.com/media/G-r2v_qbcAABI7P?format=jpg&name=medium) 
 You can see the deployed version here:  
-➡️ [Live](https://v0-maintenance-page-build.vercel.app/ )
+➡️ [Live](https://v0.app/templates/fake-maintenance-page-IY8FIsBMshf?ref=1HWO0Y)
 
 ## 📌 What This Does
 
