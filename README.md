@@ -1,30 +1,25 @@
 # Fake Maintenance Page
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/connectnazam-3666s-projects/v0-maintenance-page-build)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/t5GkShhsLQz)
+# Fake Cloudflare Error Page
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This project provides a **fake Cloudflare error page** that can be used when a website is down due to a user's fault. By using this page, the issue will appear to be on Cloudflare’s end, while the real issue is being quietly fixed on the user's side. It’s a humorous and convenient way to handle downtime situations without panic.
 
-## Deployment
+**Pro Tip:**  
+If your site is down and it's your fault, just replace it with this fake Cloudflare error page. Everyone will blame Cloudflare while you quietly fix it. Thank me later. 😎
 
-Your project is live at:
+## Features
 
-**[https://vercel.com/connectnazam-3666s-projects/v0-maintenance-page-build](https://vercel.com/connectnazam-3666s-projects/v0-maintenance-page-build)**
+- Simulates a Cloudflare error page with a 500 Internal Server Error.
+- Displays custom messages about scheduled maintenance.
+- Shows a countdown to auto-refresh the page.
+- Allows customization for different error types and messages.
 
-## Build your app
+## Installation
 
-Continue building your app on:
+To get started, simply clone this repository:
 
-**[https://v0.app/chat/t5GkShhsLQz](https://v0.app/chat/t5GkShhsLQz)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+```bash
+git clone https://github.com/yourusername/fake-cloudflare-error-page.git
+```
